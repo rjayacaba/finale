@@ -1,0 +1,24 @@
+{
+  "name": "rjayacaba",
+  "version": "1.0.0",
+  "description": "Setup app guide for web development using node +  express + git + github + sublime",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
