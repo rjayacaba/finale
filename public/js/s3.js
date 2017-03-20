@@ -12,6 +12,9 @@ $.ajax({
 }).done(function(res){
 	console.log(res);
 	let html = `
+		<style> body{
+		color: red;
+	}</style>
 	<center>
 		<h1>${res.Title}</h1>
 		<h4>Year: ${res.Year}</h4>
