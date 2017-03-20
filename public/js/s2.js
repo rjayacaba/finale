@@ -1,4 +1,4 @@
-s$('#app').html(`
+$('#app').html(`
 	<div class="loader">Loading...</div>
 `);
 
